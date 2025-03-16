@@ -1,18 +1,7 @@
-######################### EGIPCIOS LOCOS #############################
-#  Crea un programa que le pida al usuario si quieres saber cuantas piramides existen o si quiere añadir una piramide.
-#  Si el usuario decide escribir una piramide nueva, se le preguntará cuantos niveles quiere que tenga la piramide.
-#    A continuación se escribirá una piramide de tantos niveles como a pedido el usuario en un fichero llamado piramides.txt
-#    Ej: Si el usuario quiere una piramide de nivel 2 lo que se tiene que escribir en el fichero es lo siguiente:
-# *
-#***
-#    Ej: Si el usuario quiere piramide de nivel 4 sería asi:
-#   *
-#  ***
-# *****
-#*******
+
 from funciones import *
 
-_RUTA_FICHERO = "./piramides/piramide_2.txt"
+_RUTA_FICHERO = "piramide.txt"
 
 while True:
     try:
