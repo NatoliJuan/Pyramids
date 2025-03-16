@@ -23,24 +23,13 @@
 
 ## **Instrucciones de uso**
 
-1. **🔁 Clonar el repositorio**:
-    ```bash
-    git clone https://github.com/NatoliJuan/Pyramids.git
-    ```
-
-2. **📦 Instalar dependencias** (si es necesario):
-   Si el proyecto utiliza dependencias adicionales, instala las que se encuentren en el archivo `requirements.txt`:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **▶️ Ejecutar el programa**:
+1. **▶️ Ejecutar el programa**:
    Abre la terminal y ejecuta el archivo Python:
     ```bash
     python pyramids.py
     ```
 
-4. **💻 Interactuar con la aplicación**:
+2. **💻 Interactuar con la aplicación**:
    El programa te pedirá que elijas entre dos opciones:
    - Pulsa `1` para contar las pirámides en el archivo `piramide.txt`.
    - Pulsa `2` para añadir una nueva pirámide con el número de niveles que desees.
