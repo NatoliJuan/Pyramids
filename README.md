@@ -45,6 +45,7 @@ El número de pirámides es: 5
 Pulsa 1 para saber cuantas piramides hay o pulsa 2 para añadir una piramide: 2
 Cuantos niveles quieres que tenga tu piramide?: 4
 La pirámide se ha añadido.
-
+```
 ## ✍️ **Autor**
 Juan Natoli
+
